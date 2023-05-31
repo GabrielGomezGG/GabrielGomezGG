@@ -26,32 +26,21 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Game App</h3>
+<h3 align="center"><a href="https://github.com/GabrielGomezGG/GameApp">FreeGame App <a/></h3>
 <div align="center">
-<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://github.com/MartinAlbanesi/GameApp/blob/develop/img/home_screen.gif" width="400" alt="GameApp"></a>
-<p>
-<a href="https://github.com/GabrielGomezGG/GameApp" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
+<img src="https://github.com/MartinAlbanesi/GameApp/blob/develop/img/home_screen.gif" width="400" alt="GameApp">
 <p>App that showcases games from all platforms and includes two minigames.</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
-               <br>
-<h3 align="center"></h3>
+<h3 align="center"><a href="https://github.com/GabrielGomezGG/SayGG">SayGG App <a/></h3>
 <div align="center">                                       
-<a href="https://github.com/GabrielGomezGG/SayGG" target="_blank"><img src="" width="400" alt="SayGG app"></a>
-<br>
-<p>
-<a href="https://github.com/GabrielGomezGG/SayGG" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-</p>"Fan App" Android from <a href = "https://www.start.gg"> start.gg <a/> . This app use the api from startgg that maked in graphql.</p>
-</div>                                                             
+<img src="https://github.com/GabrielGomezGG/SayGG/blob/master/screenshot/startgg.gif" width="400" alt="SayGG app">
+<p>"Fan App" Android from <a href = "https://www.start.gg"> start.gg <a/> . This app use the api from startgg that maked in graphql.</p>
+</div>
+ 
 </table>
 
 <h3 align="left"> Hobbies:</h3>
