@@ -13,7 +13,9 @@
 
 <h3 align="left">Contacta conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gabrielgomezgg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/gabrielgomezgg/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gabrielgomezgg/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/gabrielgomezgg/" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/gabrielgomezgg/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="linkedin.com/in/gabrielgomezgg/" height="30" width="40"/> </a>
 </p>
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
