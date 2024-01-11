@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Gabriel Gomez <br>
 
-<img src="https://camo.githubusercontent.com/c18ad7d1f4275841d1d83ecd438d3fe514b1788f171259834f73fda02c719205/68747470733a2f2f7061312e6e61727669692e636f6d2f363538302f383039386336653932303733373638383965656230353332643966356130373233633464373366355f68712e676966"/>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 </h1>
 <h3 align="center"> Android Developer. 🚀📱🤖 </h3>
@@ -30,10 +30,10 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center"><a href="https://github.com/GabrielGomezGG/GameApp">FreeGame App <a/></h3>
+<h3 align="center"><a href="https://github.com/GabrielGomezGG/TripOut">Trip Out <a/></h3>
 <div align="center">
-<img src="https://github.com/MartinAlbanesi/GameApp/blob/develop/img/home_screen.gif" width="400" alt="GameApp">
-<p> App creada para la materia de móvil 2 de la UNLaM. La app muestra los juegos gratuitos que se encuentran disponibles en steam. También cuenta con 2 minijuegos. </p>
+<img src="https://github.com/GabrielGomezGG/TripOut/blob/feature/home/img/trip_out_home.gif" width="400" alt="TripOut">
+<p> App creada para la materia de móvil 3 de la UNLaM. En esta app podras crear viajes.</p>
 </div>
                                                                                       
 </td>
@@ -43,6 +43,17 @@
 <div align="center">                                       
 <img src="https://github.com/GabrielGomezGG/SayGG/blob/master/screenshot/startgg.gif" width="400" alt="SayGG app">
 <p> "Fan App" Android de la página <a href = "https://www.start.gg"> start.gg <a/> . Esta app utiliza la api pública de startgg que está creada en graphql.</p>
+</div>
+
+</td>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center"><a href="https://github.com/GabrielGomezGG/GameApp">FreeGame App <a/></h3>
+<div align="center">
+<img src="https://github.com/MartinAlbanesi/GameApp/blob/develop/img/home_screen.gif" width="400" alt="GameApp">
+<p> App creada para la materia de móvil 2 de la UNLaM. La app muestra los juegos gratuitos que se encuentran disponibles en steam. También cuenta con 2 minijuegos. </p>
 </div>
  
 </table>
