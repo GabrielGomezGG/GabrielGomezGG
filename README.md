@@ -25,36 +25,28 @@
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-## Proyectos:
+## Proyectos destacados:
 
 <table>
 <tr>
 <td width="50%">
 <h3 align="center"><a href="https://github.com/GabrielGomezGG/TripOut">Trip Out <a/></h3>
 <div align="center">
-<img src="https://github.com/GabrielGomezGG/TripOut/blob/feature/home/img/trip_out_home.gif" width="400" alt="TripOut">
-<p> App creada para la materia de móvil 3 de la UNLaM. En esta app podras crear viajes.</p>
+ <img src="https://github.com/GabrielGomezGG/TripOut/blob/feature/home/img/trip_out_home.gif" width="400" alt="TripOut">
+ <p> App creada para la materia de móvil 3 de la UNLaM. En esta app podras crear viajes.</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
-<h3 align="center"><a href="https://github.com/GabrielGomezGG/SayGG">SayGG App <a/></h3>
+<h3 align="center"><a href="https://play.google.com/store/apps/details?id=com.gg.spora">Spora: Guardián del Bosque<a/></h3>
 <div align="center">                                       
-<img src="https://github.com/GabrielGomezGG/SayGG/blob/master/screenshot/startgg.gif" width="400" alt="SayGG app">
-<p> "Fan App" Android de la página <a href = "https://www.start.gg"> start.gg <a/> . Esta app utiliza la api pública de startgg que está creada en graphql.</p>
+ <img src="https://github.com/GabrielGomezGG/GabrielGomezGG/blob/main/729shots_so.png" width="400" alt="Spora: Guardián del Bosque">
+ <p> ¡Descubrí Spora, la aplicación para aprender a cuidar el planeta jugando!
+Spora es una app educativa para niños y niñas que enseña sobre sustentabilidad y el cuidado del medio ambiente de una manera divertida. Acompañá a Champy y Mushy en una emocionante aventura, llena de minijuegos, desafíos, y actividades para aprender cómo proteger la naturaleza mientras te diviertís. ¡Unite a Spora y ayudá a crear un mundo más verde! </p>
 </div>
 
 </td>
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center"><a href="https://github.com/GabrielGomezGG/GameApp">FreeGame App <a/></h3>
-<div align="center">
-<img src="https://github.com/MartinAlbanesi/GameApp/blob/develop/img/home_screen.gif" width="400" alt="GameApp">
-<p> App creada para la materia de móvil 2 de la UNLaM. La app muestra los juegos gratuitos que se encuentran disponibles en steam. También cuenta con 2 minijuegos. </p>
-</div>
  
 </table>
 
